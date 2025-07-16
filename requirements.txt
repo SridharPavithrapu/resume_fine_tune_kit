@@ -1,0 +1,6 @@
+streamlit
+selenium
+transformers
+torch
+python-dotenv
+pandas
