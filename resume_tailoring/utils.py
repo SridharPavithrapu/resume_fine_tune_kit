@@ -1,7 +1,6 @@
 import os
 import json
 import pandas as pd
-import undetected_chromedriver as uc
 from nltk.stem import PorterStemmer
 
 OUTPUT_DIR = "outputs"
